@@ -15,9 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_d1.mk
-
-COMMON_LUNCH_CHOICES := \
-    aosp_d1-eng \
-    aosp_d1-user \
-    aosp_d1-userdebug
+    $(LOCAL_DIR)/lineage_d1.mk
